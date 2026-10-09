@@ -4,6 +4,7 @@
 import Link from "next/link";
 import { useDisplayPreferences } from "./display-preferences";
 import { Icon } from "./icon";
+import { withBasePath } from "@/lib/base-path";
 
 export function Brand({ href = "/" }: { href?: string }) {
   const { t, ui } = useDisplayPreferences();
@@ -12,14 +13,14 @@ export function Brand({ href = "/" }: { href?: string }) {
       <span className="brand-art" aria-hidden="true">
         <img
           className="brand-art-light"
-          src="/configurator/pergolalink-logo-light.svg"
+          src={withBasePath("/configurator/pergolalink-logo-light.svg")}
           alt=""
           width={1600}
           height={408}
         />
         <img
           className="brand-art-dark"
-          src="/configurator/pergolalink-logo-dark.svg"
+          src={withBasePath("/configurator/pergolalink-logo-dark.svg")}
           alt=""
           width={1600}
           height={408}
@@ -51,7 +52,7 @@ export function SiteFooter() {
     <footer className="site-footer">
       <div className="page-container footer-inner">
         <span>
-          © 2026 <strong>PergolaLink</strong>
+          © 2026 <strong>Chef Brown · PergolaLink</strong>. All rights reserved.
         </span>
         <span className="footer-tagline">{t.footer}</span>
         <span className="footer-credit">

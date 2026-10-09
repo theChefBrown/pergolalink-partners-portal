@@ -1,5 +1,6 @@
 import { PDFDocument, rgb, type PDFPage } from "pdf-lib";
 import fontkit from "@pdf-lib/fontkit";
+import { withBasePath } from "../../lib/base-path";
 import { getCopy } from "./locales";
 import { isRoof, modelFor } from "./catalog";
 import { systemRows } from "./summary";
@@ -14,7 +15,7 @@ export async function generateCustomerReport(
   brand: CustomerBrand,
   images: Record<string, string>,
   locale: ConfigLocale,
-  assetBase = "/configurator",
+  assetBase = withBasePath("/configurator"),
   reference = "",
 ) {
   if (!brand.name.trim()) throw Error("Missing dealer company");

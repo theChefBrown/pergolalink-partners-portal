@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
-import { cookies } from "next/headers";
 import type { ReactNode } from "react";
 import { DisplayPreferences } from "@/components/display-preferences";
-import { resolveLocale } from "@/lib/i18n";
+import { DEFAULT_LOCALE } from "@/lib/i18n";
 import { SiteFooter } from "@/components/site-controls";
 import { LanguagePicker } from "@/components/language-picker";
 import { DemoProvider } from "@/components/demo/demo-provider";
@@ -12,16 +11,17 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false },
 };
 
-export default async function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
-  const preferences = await cookies();
-  const savedLocale = preferences.get("pergolalink-locale")?.value;
-  const locale = resolveLocale(savedLocale);
-  const theme = preferences.get("dummy-theme")?.value === "light" ? "light" : "dark";
+// Static export: saved language and theme are applied on the client after load.
+const applySavedTheme = `try{var m=document.cookie.match(/(?:^|; )dummy-theme=(light|dark)/);if(m)document.documentElement.dataset.theme=m[1]}catch(e){}`;
 
+export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
   return (
-    <html lang={locale} data-theme={theme} data-scroll-behavior="smooth">
+    <html lang={DEFAULT_LOCALE} data-theme="dark" data-scroll-behavior="smooth" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: applySavedTheme }} />
+      </head>
       <body>
-        <DisplayPreferences initialLocale={locale} initialTheme={theme}>
+        <DisplayPreferences initialLocale={DEFAULT_LOCALE} initialTheme="dark">
           <DemoProvider>{children}</DemoProvider>
           <SiteFooter />
           <LanguagePicker />

@@ -5,6 +5,7 @@ import type { Locale } from "./i18n";
 import { getCopy } from "../features/configurator/locales";
 import { demoCopy } from "./demo-copy";
 import type { DemoText } from "./workflow-messages";
+import { withBasePath } from "./base-path";
 
 /** Manager quotations export their actual edited line items, not a placeholder PDF. */
 export async function offerReport(
@@ -15,7 +16,7 @@ export async function offerReport(
 ) {
   const pdf = await PDFDocument.create();
   pdf.registerFontkit(fontkit);
-  const response = await fetch("/configurator/NotoSans-Regular.ttf");
+  const response = await fetch(withBasePath("/configurator/NotoSans-Regular.ttf"));
   if (!response.ok) throw Error("Font unavailable");
   const font = await pdf.embedFont(await response.arrayBuffer(), {
     subset: true,
@@ -53,7 +54,9 @@ export async function offerReport(
   pdf.setTitle(offer.id);
   pdf.setAuthor("PergolaLink");
   pdf.setLanguage(locale);
-  const logoResponse = await fetch("/configurator/pergolalink-logo-light.png");
+  const logoResponse = await fetch(
+    withBasePath("/configurator/pergolalink-logo-light.png"),
+  );
   if (logoResponse.ok) {
     const logo = await pdf.embedPng(await logoResponse.arrayBuffer());
     page.drawImage(logo, { x: 40, y: 778, width: 180, height: 180 * logo.height / logo.width });

@@ -8,6 +8,7 @@ import {
   type CustomerOfferSettings,
   type CustomerOffer,
 } from "./customer-offer";
+import { withBasePath } from "../../lib/base-path";
 import { getCopy } from "./locales";
 import { formatPrice } from "./pricing";
 import type { OrderPricing } from "./pricing-types";
@@ -22,7 +23,7 @@ export function CustomerOfferPanel({
   getImages,
   locale,
   reference = "",
-  assetBase = "/configurator",
+  assetBase = withBasePath("/configurator"),
   initialSettings,
   disabled,
   onSettingsChange,

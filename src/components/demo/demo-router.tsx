@@ -1,5 +1,6 @@
 "use client";
 import dynamic from "next/dynamic";
+import { useSearchParams } from "next/navigation";
 const Overview = dynamic(() => import("./overview").then((m) => m.Overview));
 const OrderList = dynamic(() =>
   import("./order-list").then((m) => m.OrderList),
@@ -48,14 +49,9 @@ const AdminActivity = dynamic(() =>
 const AdminSettings = dynamic(() =>
   import("./admin-pages").then((m) => m.AdminSettings),
 );
-export function DemoRouter({
-  path,
-  initialOrderId,
-}: {
-  path: string[];
-  initialOrderId?: string;
-}) {
+export function DemoRouter({ path }: { path: string[] }) {
   const route = path.join("/");
+  const initialOrderId = useSearchParams().get("order") ?? undefined;
   if (route === "admin/activity") return <AdminActivity />;
   if (route === "admin/settings") return <AdminSettings />;
   if (route === "admin/users") return <AdminUsers />;

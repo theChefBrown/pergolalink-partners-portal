@@ -1,7 +1,7 @@
 "use client";
 
-import { createContext, useContext, useState, type ReactNode } from "react";
-import { messages, type Locale, type Theme } from "@/lib/i18n";
+import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
+import { messages, resolveLocale, type Locale, type Theme } from "@/lib/i18n";
 import { portalMessages } from "@/lib/portal-messages";
 
 type Preferences = {
@@ -23,6 +23,19 @@ export function DisplayPreferences({ children, initialLocale, initialTheme }: {
 }) {
   const [locale, updateLocale] = useState(initialLocale);
   const [theme, updateTheme] = useState(initialTheme);
+
+  useEffect(() => {
+    const read = (name: string) =>
+      document.cookie.match(new RegExp(`(?:^|; )${name}=([^;]*)`))?.[1];
+    const savedLocale = resolveLocale(read("pergolalink-locale"));
+    const savedTheme = read("dummy-theme") === "light" ? "light" : "dark";
+    /* eslint-disable react-hooks/set-state-in-effect -- cookies are only readable after hydration in a static export */
+    updateLocale(savedLocale);
+    updateTheme(savedTheme);
+    /* eslint-enable react-hooks/set-state-in-effect */
+    document.documentElement.lang = savedLocale;
+    document.documentElement.dataset.theme = savedTheme;
+  }, []);
 
   function setLocale(next: Locale) {
     updateLocale(next);

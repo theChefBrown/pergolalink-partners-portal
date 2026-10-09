@@ -1,5 +1,6 @@
 import { PDFDocument, rgb, degrees, type PDFPage } from "pdf-lib";
 import fontkit from "@pdf-lib/fontkit";
+import { withBasePath } from "../../lib/base-path";
 import { getCopy } from "./locales";
 import { modelFor, isRoof } from "./catalog";
 import { systemSections } from "./summary";
@@ -35,7 +36,7 @@ export async function generateReport(
   files: File[],
   images: Record<string, string>,
   locale: ConfigLocale,
-  assetBase = "/configurator",
+  assetBase = withBasePath("/configurator"),
   reference = "",
   pricing: OrderPricing = priceOrder(draft.systems),
   logoUrl = assetBase + "/pergolalink-logo-light.png",

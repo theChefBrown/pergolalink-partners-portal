@@ -22,6 +22,7 @@ import {
 } from "./catalog";
 import counties from "./counties.json";
 import countryNames from "./countries.json";
+import { withBasePath } from "../../lib/base-path";
 import { getCopy } from "./locales";
 import { CIcon, Dialog, Field, SystemSketch } from "./ui";
 import { Attachments } from "./Attachments";
@@ -79,7 +80,7 @@ export type OrderConfiguratorProps = {
 };
 export function OrderConfigurator({
   locale = "en",
-  assetBase = "/configurator",
+  assetBase = withBasePath("/configurator"),
   reference = "",
   initialDraft,
   availableModels,

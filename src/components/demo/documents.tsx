@@ -1,4 +1,5 @@
 "use client";
+import { withBasePath } from "@/lib/base-path";
 /* eslint-disable @next/next/no-img-element -- Temporary browser object URLs are local previews. */
 import { useState } from "react";
 import type { DemoDocument } from "@/lib/demo-types";
@@ -83,7 +84,7 @@ export function DocumentCard({ document }: { document: DemoDocument }) {
         <Button onClick={() => setOpen(true)}>{w.view}</Button>
         <a
           className="button-secondary"
-          href={document.url}
+          href={withBasePath(document.url)}
           download={document.fileName}
         >
           {w.download}
@@ -110,7 +111,7 @@ export function DocumentCard({ document }: { document: DemoDocument }) {
           <div className="form-actions">
             <a
               className="button-primary"
-              href={document.url}
+              href={withBasePath(document.url)}
               download={document.fileName}
             >
               {w.download}

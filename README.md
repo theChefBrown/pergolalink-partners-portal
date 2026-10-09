@@ -58,7 +58,9 @@ Keep workbook sheet order/dimension headers consistent with `docs/prices/catalog
 
 Create a GitHub repository and upload **this folder's contents**, including `package-lock.json`, `docs/prices`, `src` and `public`. Exclude `node_modules`, `.next`, generated QA artifacts and personal uploads; `.gitignore` is included. An optional GitHub Actions workflow runs tests, validation and a build. No secrets are needed.
 
-Deploy as a Next.js Node application with build command `npm run build` and start command `npm run start`. It is not a GitHub Pages static export. Uploading source to GitHub does not by itself publish a live application. No remote repository or deployment is created by this project.
+The app is a static export, so it deploys to **GitHub Pages** with the included workflow (`.github/workflows/pages.yml`). In the repository go to **Settings → Pages** and set **Source** to **GitHub Actions**; every push to `main` then builds and publishes the site at `https://<user>.github.io/<repository-name>/`. The base path is taken from the repository name automatically, so renaming the repository needs no code change.
+
+To preview the Pages build locally, run `NEXT_PUBLIC_BASE_PATH=/<repository-name> npm run build` and serve the `out` folder under that sub-path. Orders created in the browser get new IDs; opening one of those URLs directly works through the `404.html` fallback.
 
 ## Structure and portability
 
@@ -68,7 +70,7 @@ Deploy as a Next.js Node application with build command `npm run build` and star
 - `scripts`: cross-platform synthetic workbook generator/importer and public-copy check.
 - `public/configurator`: demo branding, licensed PDF font and public geographic lookup data.
 
-Copy the project as a complete independent folder. It has no links or runtime dependencies on another project. See `THIRD_PARTY_NOTICES.md` for font/data attribution. No application source license is selected; choose one before allowing third-party reuse.
+Copy the project as a complete independent folder. It has no links or runtime dependencies on another project. See `THIRD_PARTY_NOTICES.md` for font/data attribution. The project is proprietary: see [LICENSE](./LICENSE). Copyright © 2026 Chef Brown. All rights reserved.
 
 ## Brand assets
 
