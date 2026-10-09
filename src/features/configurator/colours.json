@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "RAL 1000",
+    "name": "RAL 1000",
+    "collection": "RAL Classic",
+    "hex": "#cdba88"
+  },
+  {
+    "id": "RAL 1001",
+    "name": "RAL 1001",
+    "collection": "RAL Classic",
+    "hex": "#d0b084"
+  },
+  {
+    "id": "RAL 1002",
+    "name": "RAL 1002",
+    "collection": "RAL Classic",
+    "hex": "#d2aa6d"
+  },
+  {
+    "id": "RAL 1003",
+    "name": "RAL 1003",
+    "collection": "RAL Classic",
+    "hex": "#f9a800"
+  },
+  {
+    "id": "RAL 1004",
+    "name": "RAL 1004",
+    "collection": "RAL Classic",
+    "hex": "#e49e00"
+  },
+  {
+    "id": "RAL 1005",
+    "name": "RAL 1005",
+    "collection": "RAL Classic",
+    "hex": "#cb8e00"
+  },
+  {
+    "id": "RAL 1006",
+    "name": "RAL 1006",
+    "collection": "RAL Classic",
+    "hex": "#e29000"
+  },
+  {
+    "id": "RAL 1007",
+    "name": "RAL 1007",
+    "collection": "RAL Classic",
+    "hex": "#e88c00"
+  },
+  {
+    "id": "RAL 1011",
+    "name": "RAL 1011",
+    "collection": "RAL Classic",
+    "hex": "#af804f"
+  },
+  {
+    "id": "RAL 1012",
+    "name": "RAL 1012",
+    "collection": "RAL Classic",
+    "hex": "#ddaf27"
+  },
+  {
+    "id": "RAL 1013",
+    "name": "RAL 1013",
+    "collection": "RAL Classic",
+    "hex": "#e3d9c6"
+  },
+  {
+    "id": "RAL 1014",
+    "name": "RAL 1014",
+    "collection": "RAL Classic",
+    "hex": "#ddc49a"
+  },
+  {
+    "id": "RAL 1015",
+    "name": "RAL 1015",
+    "collection": "RAL Classic",
+    "hex": "#e6d2b5"
+  },
+  {
+    "id": "RAL 1016",
+    "name": "RAL 1016",
+    "collection": "RAL Classic",
+    "hex": "#f1dd38"
+  },
+  {
+    "id": "RAL 1017",
+    "name": "RAL 1017",
+    "collection": "RAL Classic",
+    "hex": "#f6a950"
+  },
+  {
+    "id": "RAL 1018",
+    "name": "RAL 1018",
+    "collection": "RAL Classic",
+    "hex": "#faca30"
+  },
+  {
+    "id": "RAL 1019",
+    "name": "RAL 1019",
+    "collection": "RAL Classic",
+    "hex": "#a48f7a"
+  },
+  {
+    "id": "RAL 1020",
+    "name": "RAL 1020",
+    "collection": "RAL Classic",
+    "hex": "#a08f65"
+  },
+  {
+    "id": "RAL 1021",
+    "name": "RAL 1021",
+    "collection": "RAL Classic",
+    "hex": "#f6b600"
+  },
+  {
+    "id": "RAL 1023",
+    "name": "RAL 1023",
+    "collection": "RAL Classic",
+    "hex": "#f7b500"
+  },
+  {
+    "id": "RAL 1024",
+    "name": "RAL 1024",
+    "collection": "RAL Classic",
+    "hex": "#ba8f4c"
+  },
+  {
+    "id": "RAL 1027",
+    "name": "RAL 1027",
+    "collection": "RAL Classic",
+    "hex": "#a77f0e"
+  },
+  {
+    "id": "RAL 1028",
+    "name": "RAL 1028",
+    "collection": "RAL Classic",
+    "hex": "#ff9b00"
+  },
+  {
+    "id": "RAL 1032",
+    "name": "RAL 1032",
+    "collection": "RAL Classic",
+    "hex": "#e2a300"
+  },
+  {
+    "id": "RAL 1033",
+    "name": "RAL 1033",
+    "collection": "RAL Classic",
+    "hex": "#f99a1c"
+  },
+  {
+    "id": "RAL 1034",
+    "name": "RAL 1034",
+    "collection": "RAL Classic",
+    "hex": "#eb9c52"
+  },
+  {
+    "id": "RAL 1037",
+    "name": "RAL 1037",
+    "collection": "RAL Classic",
+    "hex": "#f09200"
+  },
+  {
+    "id": "RAL 2000",
+    "name": "RAL 2000",
+    "collection": "RAL Classic",
+    "hex": "#dd7907"
+  },
+  {
+    "id": "RAL 2001",
+    "name": "RAL 2001",
+    "collection": "RAL Classic",
+    "hex": "#be4e20"
+  },
+  {
+    "id": "RAL 2002",
+    "name": "RAL 2002",
+    "collection": "RAL Classic",
+    "hex": "#c63927"
+  },
+  {
+    "id": "RAL 2003",
+    "name": "RAL 2003",
+    "collection": "RAL Classic",
+    "hex": "#fa842b"
+  },
+  {
+    "id": "RAL 2004",
+    "name": "RAL 2004",
+    "collection": "RAL Classic",
+    "hex": "#e75b12"
+  },
+  {
+    "id": "RAL 2008",
+    "name": "RAL 2008",
+    "collection": "RAL Classic",
+    "hex": "#f3752c"
+  },
+  {
+    "id": "RAL 2009",
+    "name": "RAL 2009",
+    "collection": "RAL Classic",
+    "hex": "#e15501"
+  },
+  {
+    "id": "RAL 2010",
+    "name": "RAL 2010",
+    "collection": "RAL Classic",
+    "hex": "#d4652f"
+  },
+  {
+    "id": "RAL 2011",
+    "name": "RAL 2011",
+    "collection": "RAL Classic",
+    "hex": "#ec7c25"
+  },
+  {
+    "id": "RAL 2012",
+    "name": "RAL 2012",
+    "collection": "RAL Classic",
+    "hex": "#db6a50"
+  },
+  {
+    "id": "RAL 3000",
+    "name": "RAL 3000",
+    "collection": "RAL Classic",
+    "hex": "#ab2524"
+  },
+  {
+    "id": "RAL 3001",
+    "name": "RAL 3001",
+    "collection": "RAL Classic",
+    "hex": "#a02128"
+  },
+  {
+    "id": "RAL 3002",
+    "name": "RAL 3002",
+    "collection": "RAL Classic",
+    "hex": "#a1232b"
+  },
+  {
+    "id": "RAL 3003",
+    "name": "RAL 3003",
+    "collection": "RAL Classic",
+    "hex": "#8d1d2c"
+  },
+  {
+    "id": "RAL 3004",
+    "name": "RAL 3004",
+    "collection": "RAL Classic",
+    "hex": "#701f29"
+  },
+  {
+    "id": "RAL 3005",
+    "name": "RAL 3005",
+    "collection": "RAL Classic",
+    "hex": "#5e2028"
+  },
+  {
+    "id": "RAL 3007",
+    "name": "RAL 3007",
+    "collection": "RAL Classic",
+    "hex": "#402225"
+  },
+  {
+    "id": "RAL 3009",
+    "name": "RAL 3009",
+    "collection": "RAL Classic",
+    "hex": "#703731"
+  },
+  {
+    "id": "RAL 3011",
+    "name": "RAL 3011",
+    "collection": "RAL Classic",
+    "hex": "#7e292c"
+  },
+  {
+    "id": "RAL 3012",
+    "name": "RAL 3012",
+    "collection": "RAL Classic",
+    "hex": "#cb8d73"
+  },
+  {
+    "id": "RAL 3013",
+    "name": "RAL 3013",
+    "collection": "RAL Classic",
+    "hex": "#9c322e"
+  },
+  {
+    "id": "RAL 3014",
+    "name": "RAL 3014",
+    "collection": "RAL Classic",
+    "hex": "#d47479"
+  },
+  {
+    "id": "RAL 3015",
+    "name": "RAL 3015",
+    "collection": "RAL Classic",
+    "hex": "#e1a6ad"
+  },
+  {
+    "id": "RAL 3016",
+    "name": "RAL 3016",
+    "collection": "RAL Classic",
+    "hex": "#ac4034"
+  },
+  {
+    "id": "RAL 3017",
+    "name": "RAL 3017",
+    "collection": "RAL Classic",
+    "hex": "#d3545f"
+  },
+  {
+    "id": "RAL 3018",
+    "name": "RAL 3018",
+    "collection": "RAL Classic",
+    "hex": "#d14152"
+  },
+  {
+    "id": "RAL 3020",
+    "name": "RAL 3020",
+    "collection": "RAL Classic",
+    "hex": "#c1121c"
+  },
+  {
+    "id": "RAL 3022",
+    "name": "RAL 3022",
+    "collection": "RAL Classic",
+    "hex": "#d56d56"
+  },
+  {
+    "id": "RAL 3027",
+    "name": "RAL 3027",
+    "collection": "RAL Classic",
+    "hex": "#b42041"
+  },
+  {
+    "id": "RAL 3031",
+    "name": "RAL 3031",
+    "collection": "RAL Classic",
+    "hex": "#ac323b"
+  },
+  {
+    "id": "RAL 4001",
+    "name": "RAL 4001",
+    "collection": "RAL Classic",
+    "hex": "#8a5a83"
+  },
+  {
+    "id": "RAL 4002",
+    "name": "RAL 4002",
+    "collection": "RAL Classic",
+    "hex": "#933d50"
+  },
+  {
+    "id": "RAL 4003",
+    "name": "RAL 4003",
+    "collection": "RAL Classic",
+    "hex": "#d15b8f"
+  },
+  {
+    "id": "RAL 4004",
+    "name": "RAL 4004",
+    "collection": "RAL Classic",
+    "hex": "#691639"
+  },
+  {
+    "id": "RAL 4005",
+    "name": "RAL 4005",
+    "collection": "RAL Classic",
+    "hex": "#83639d"
+  },
+  {
+    "id": "RAL 4006",
+    "name": "RAL 4006",
+    "collection": "RAL Classic",
+    "hex": "#992572"
+  },
+  {
+    "id": "RAL 4007",
+    "name": "RAL 4007",
+    "collection": "RAL Classic",
+    "hex": "#4a203b"
+  },
+  {
+    "id": "RAL 4008",
+    "name": "RAL 4008",
+    "collection": "RAL Classic",
+    "hex": "#904684"
+  },
+  {
+    "id": "RAL 4009",
+    "name": "RAL 4009",
+    "collection": "RAL Classic",
+    "hex": "#a38995"
+  },
+  {
+    "id": "RAL 4010",
+    "name": "RAL 4010",
+    "collection": "RAL Classic",
+    "hex": "#c63678"
+  },
+  {
+    "id": "RAL 5000",
+    "name": "RAL 5000",
+    "collection": "RAL Classic",
+    "hex": "#384c70"
+  },
+  {
+    "id": "RAL 5001",
+    "name": "RAL 5001",
+    "collection": "RAL Classic",
+    "hex": "#1f4764"
+  },
+  {
+    "id": "RAL 5002",
+    "name": "RAL 5002",
+    "collection": "RAL Classic",
+    "hex": "#2b2c7c"
+  },
+  {
+    "id": "RAL 5003",
+    "name": "RAL 5003",
+    "collection": "RAL Classic",
+    "hex": "#2a3756"
+  },
+  {
+    "id": "RAL 5004",
+    "name": "RAL 5004",
+    "collection": "RAL Classic",
+    "hex": "#1d1f2a"
+  },
+  {
+    "id": "RAL 5005",
+    "name": "RAL 5005",
+    "collection": "RAL Classic",
+    "hex": "#154889"
+  },
+  {
+    "id": "RAL 5007",
+    "name": "RAL 5007",
+    "collection": "RAL Classic",
+    "hex": "#41678d"
+  },
+  {
+    "id": "RAL 5008",
+    "name": "RAL 5008",
+    "collection": "RAL Classic",
+    "hex": "#313c48"
+  },
+  {
+    "id": "RAL 5009",
+    "name": "RAL 5009",
+    "collection": "RAL Classic",
+    "hex": "#2e5978"
+  },
+  {
+    "id": "RAL 5010",
+    "name": "RAL 5010",
+    "collection": "RAL Classic",
+    "hex": "#13447c"
+  },
+  {
+    "id": "RAL 5011",
+    "name": "RAL 5011",
+    "collection": "RAL Classic",
+    "hex": "#232c3f"
+  },
+  {
+    "id": "RAL 5012",
+    "name": "RAL 5012",
+    "collection": "RAL Classic",
+    "hex": "#3481b8"
+  },
+  {
+    "id": "RAL 5013",
+    "name": "RAL 5013",
+    "collection": "RAL Classic",
+    "hex": "#232d53"
+  },
+  {
+    "id": "RAL 5014",
+    "name": "RAL 5014",
+    "collection": "RAL Classic",
+    "hex": "#6c7c98"
+  },
+  {
+    "id": "RAL 5015",
+    "name": "RAL 5015",
+    "collection": "RAL Classic",
+    "hex": "#2874b2"
+  },
+  {
+    "id": "RAL 5017",
+    "name": "RAL 5017",
+    "collection": "RAL Classic",
+    "hex": "#0e518d"
+  },
+  {
+    "id": "RAL 5018",
+    "name": "RAL 5018",
+    "collection": "RAL Classic",
+    "hex": "#21888f"
+  },
+  {
+    "id": "RAL 5019",
+    "name": "RAL 5019",
+    "collection": "RAL Classic",
+    "hex": "#1a5784"
+  },
+  {
+    "id": "RAL 5020",
+    "name": "RAL 5020",
+    "collection": "RAL Classic",
+    "hex": "#0b4151"
+  },
+  {
+    "id": "RAL 5021",
+    "name": "RAL 5021",
+    "collection": "RAL Classic",
+    "hex": "#07737a"
+  },
+  {
+    "id": "RAL 5022",
+    "name": "RAL 5022",
+    "collection": "RAL Classic",
+    "hex": "#2f2a5a"
+  },
+  {
+    "id": "RAL 5023",
+    "name": "RAL 5023",
+    "collection": "RAL Classic",
+    "hex": "#4d668e"
+  },
+  {
+    "id": "RAL 5024",
+    "name": "RAL 5024",
+    "collection": "RAL Classic",
+    "hex": "#6a93b0"
+  },
+  {
+    "id": "RAL 6000",
+    "name": "RAL 6000",
+    "collection": "RAL Classic",
+    "hex": "#327662"
+  },
+  {
+    "id": "RAL 6001",
+    "name": "RAL 6001",
+    "collection": "RAL Classic",
+    "hex": "#28713e"
+  },
+  {
+    "id": "RAL 6002",
+    "name": "RAL 6002",
+    "collection": "RAL Classic",
+    "hex": "#276235"
+  },
+  {
+    "id": "RAL 6003",
+    "name": "RAL 6003",
+    "collection": "RAL Classic",
+    "hex": "#4b573e"
+  },
+  {
+    "id": "RAL 6004",
+    "name": "RAL 6004",
+    "collection": "RAL Classic",
+    "hex": "#0e4243"
+  },
+  {
+    "id": "RAL 6005",
+    "name": "RAL 6005",
+    "collection": "RAL Classic",
+    "hex": "#0f4336"
+  },
+  {
+    "id": "RAL 6006",
+    "name": "RAL 6006",
+    "collection": "RAL Classic",
+    "hex": "#40433b"
+  },
+  {
+    "id": "RAL 6007",
+    "name": "RAL 6007",
+    "collection": "RAL Classic",
+    "hex": "#283424"
+  },
+  {
+    "id": "RAL 6008",
+    "name": "RAL 6008",
+    "collection": "RAL Classic",
+    "hex": "#35382e"
+  },
+  {
+    "id": "RAL 6009",
+    "name": "RAL 6009",
+    "collection": "RAL Classic",
+    "hex": "#26392f"
+  },
+  {
+    "id": "RAL 6010",
+    "name": "RAL 6010",
+    "collection": "RAL Classic",
+    "hex": "#3e753b"
+  },
+  {
+    "id": "RAL 6011",
+    "name": "RAL 6011",
+    "collection": "RAL Classic",
+    "hex": "#68825b"
+  },
+  {
+    "id": "RAL 6012",
+    "name": "RAL 6012",
+    "collection": "RAL Classic",
+    "hex": "#31403d"
+  },
+  {
+    "id": "RAL 6013",
+    "name": "RAL 6013",
+    "collection": "RAL Classic",
+    "hex": "#797c5a"
+  },
+  {
+    "id": "RAL 6014",
+    "name": "RAL 6014",
+    "collection": "RAL Classic",
+    "hex": "#444337"
+  },
+  {
+    "id": "RAL 6015",
+    "name": "RAL 6015",
+    "collection": "RAL Classic",
+    "hex": "#3d403a"
+  },
+  {
+    "id": "RAL 6016",
+    "name": "RAL 6016",
+    "collection": "RAL Classic",
+    "hex": "#026a52"
+  },
+  {
+    "id": "RAL 6017",
+    "name": "RAL 6017",
+    "collection": "RAL Classic",
+    "hex": "#468641"
+  },
+  {
+    "id": "RAL 6018",
+    "name": "RAL 6018",
+    "collection": "RAL Classic",
+    "hex": "#48a43f"
+  },
+  {
+    "id": "RAL 6019",
+    "name": "RAL 6019",
+    "collection": "RAL Classic",
+    "hex": "#b7d9b1"
+  },
+  {
+    "id": "RAL 6020",
+    "name": "RAL 6020",
+    "collection": "RAL Classic",
+    "hex": "#354733"
+  },
+  {
+    "id": "RAL 6021",
+    "name": "RAL 6021",
+    "collection": "RAL Classic",
+    "hex": "#86a47c"
+  },
+  {
+    "id": "RAL 6022",
+    "name": "RAL 6022",
+    "collection": "RAL Classic",
+    "hex": "#3e3c32"
+  },
+  {
+    "id": "RAL 6024",
+    "name": "RAL 6024",
+    "collection": "RAL Classic",
+    "hex": "#008754"
+  },
+  {
+    "id": "RAL 6025",
+    "name": "RAL 6025",
+    "collection": "RAL Classic",
+    "hex": "#53753c"
+  },
+  {
+    "id": "RAL 6026",
+    "name": "RAL 6026",
+    "collection": "RAL Classic",
+    "hex": "#005d52"
+  },
+  {
+    "id": "RAL 6027",
+    "name": "RAL 6027",
+    "collection": "RAL Classic",
+    "hex": "#81c0bb"
+  },
+  {
+    "id": "RAL 6028",
+    "name": "RAL 6028",
+    "collection": "RAL Classic",
+    "hex": "#2d5546"
+  },
+  {
+    "id": "RAL 6029",
+    "name": "RAL 6029",
+    "collection": "RAL Classic",
+    "hex": "#007243"
+  },
+  {
+    "id": "RAL 6032",
+    "name": "RAL 6032",
+    "collection": "RAL Classic",
+    "hex": "#0f8558"
+  },
+  {
+    "id": "RAL 6033",
+    "name": "RAL 6033",
+    "collection": "RAL Classic",
+    "hex": "#478a84"
+  },
+  {
+    "id": "RAL 6034",
+    "name": "RAL 6034",
+    "collection": "RAL Classic",
+    "hex": "#7fb0b2"
+  },
+  {
+    "id": "RAL 7000",
+    "name": "RAL 7000",
+    "collection": "RAL Classic",
+    "hex": "#7e8b92"
+  },
+  {
+    "id": "RAL 7001",
+    "name": "RAL 7001",
+    "collection": "RAL Classic",
+    "hex": "#8f999f"
+  },
+  {
+    "id": "RAL 7002",
+    "name": "RAL 7002",
+    "collection": "RAL Classic",
+    "hex": "#817f68"
+  },
+  {
+    "id": "RAL 7003",
+    "name": "RAL 7003",
+    "collection": "RAL Classic",
+    "hex": "#7a7b6d"
+  },
+  {
+    "id": "RAL 7004",
+    "name": "RAL 7004",
+    "collection": "RAL Classic",
+    "hex": "#9ea0a1"
+  },
+  {
+    "id": "RAL 7005",
+    "name": "RAL 7005",
+    "collection": "RAL Classic",
+    "hex": "#6b716f"
+  },
+  {
+    "id": "RAL 7006",
+    "name": "RAL 7006",
+    "collection": "RAL Classic",
+    "hex": "#756f61"
+  },
+  {
+    "id": "RAL 7008",
+    "name": "RAL 7008",
+    "collection": "RAL Classic",
+    "hex": "#746643"
+  },
+  {
+    "id": "RAL 7009",
+    "name": "RAL 7009",
+    "collection": "RAL Classic",
+    "hex": "#5b6259"
+  },
+  {
+    "id": "RAL 7010",
+    "name": "RAL 7010",
+    "collection": "RAL Classic",
+    "hex": "#575d57"
+  },
+  {
+    "id": "RAL 7011",
+    "name": "RAL 7011",
+    "collection": "RAL Classic",
+    "hex": "#555d61"
+  },
+  {
+    "id": "RAL 7012",
+    "name": "RAL 7012",
+    "collection": "RAL Classic",
+    "hex": "#596163"
+  },
+  {
+    "id": "RAL 7013",
+    "name": "RAL 7013",
+    "collection": "RAL Classic",
+    "hex": "#555548"
+  },
+  {
+    "id": "RAL 7015",
+    "name": "RAL 7015",
+    "collection": "RAL Classic",
+    "hex": "#51565c"
+  },
+  {
+    "id": "RAL 7016",
+    "name": "RAL 7016",
+    "collection": "RAL Classic",
+    "hex": "#373f43"
+  },
+  {
+    "id": "RAL 7021",
+    "name": "RAL 7021",
+    "collection": "RAL Classic",
+    "hex": "#2e3234"
+  },
+  {
+    "id": "RAL 7022",
+    "name": "RAL 7022",
+    "collection": "RAL Classic",
+    "hex": "#4b4d46"
+  },
+  {
+    "id": "RAL 7023",
+    "name": "RAL 7023",
+    "collection": "RAL Classic",
+    "hex": "#818479"
+  },
+  {
+    "id": "RAL 7024",
+    "name": "RAL 7024",
+    "collection": "RAL Classic",
+    "hex": "#474a50"
+  },
+  {
+    "id": "RAL 7026",
+    "name": "RAL 7026",
+    "collection": "RAL Classic",
+    "hex": "#374447"
+  },
+  {
+    "id": "RAL 7030",
+    "name": "RAL 7030",
+    "collection": "RAL Classic",
+    "hex": "#939388"
+  },
+  {
+    "id": "RAL 7031",
+    "name": "RAL 7031",
+    "collection": "RAL Classic",
+    "hex": "#5d6970"
+  },
+  {
+    "id": "RAL 7032",
+    "name": "RAL 7032",
+    "collection": "RAL Classic",
+    "hex": "#b9b9a8"
+  },
+  {
+    "id": "RAL 7033",
+    "name": "RAL 7033",
+    "collection": "RAL Classic",
+    "hex": "#818979"
+  },
+  {
+    "id": "RAL 7034",
+    "name": "RAL 7034",
+    "collection": "RAL Classic",
+    "hex": "#939176"
+  },
+  {
+    "id": "RAL 7035",
+    "name": "RAL 7035",
+    "collection": "RAL Classic",
+    "hex": "#cbd0cc"
+  },
+  {
+    "id": "RAL 7036",
+    "name": "RAL 7036",
+    "collection": "RAL Classic",
+    "hex": "#9a9697"
+  },
+  {
+    "id": "RAL 7037",
+    "name": "RAL 7037",
+    "collection": "RAL Classic",
+    "hex": "#7c7f7e"
+  },
+  {
+    "id": "RAL 7038",
+    "name": "RAL 7038",
+    "collection": "RAL Classic",
+    "hex": "#b4b8b0"
+  },
+  {
+    "id": "RAL 7039",
+    "name": "RAL 7039",
+    "collection": "RAL Classic",
+    "hex": "#6b695f"
+  },
+  {
+    "id": "RAL 7040",
+    "name": "RAL 7040",
+    "collection": "RAL Classic",
+    "hex": "#9da3a6"
+  },
+  {
+    "id": "RAL 7042",
+    "name": "RAL 7042",
+    "collection": "RAL Classic",
+    "hex": "#8f9695"
+  },
+  {
+    "id": "RAL 7043",
+    "name": "RAL 7043",
+    "collection": "RAL Classic",
+    "hex": "#4e5451"
+  },
+  {
+    "id": "RAL 7044",
+    "name": "RAL 7044",
+    "collection": "RAL Classic",
+    "hex": "#bdbdb2"
+  },
+  {
+    "id": "RAL 7045",
+    "name": "RAL 7045",
+    "collection": "RAL Classic",
+    "hex": "#91969a"
+  },
+  {
+    "id": "RAL 7046",
+    "name": "RAL 7046",
+    "collection": "RAL Classic",
+    "hex": "#82898e"
+  },
+  {
+    "id": "RAL 7047",
+    "name": "RAL 7047",
+    "collection": "RAL Classic",
+    "hex": "#cfd0cf"
+  },
+  {
+    "id": "RAL 8000",
+    "name": "RAL 8000",
+    "collection": "RAL Classic",
+    "hex": "#887142"
+  },
+  {
+    "id": "RAL 8001",
+    "name": "RAL 8001",
+    "collection": "RAL Classic",
+    "hex": "#9c6b30"
+  },
+  {
+    "id": "RAL 8002",
+    "name": "RAL 8002",
+    "collection": "RAL Classic",
+    "hex": "#7b5141"
+  },
+  {
+    "id": "RAL 8003",
+    "name": "RAL 8003",
+    "collection": "RAL Classic",
+    "hex": "#80542f"
+  },
+  {
+    "id": "RAL 8004",
+    "name": "RAL 8004",
+    "collection": "RAL Classic",
+    "hex": "#8f4e35"
+  },
+  {
+    "id": "RAL 8007",
+    "name": "RAL 8007",
+    "collection": "RAL Classic",
+    "hex": "#6f4a2f"
+  },
+  {
+    "id": "RAL 8008",
+    "name": "RAL 8008",
+    "collection": "RAL Classic",
+    "hex": "#6f4f28"
+  },
+  {
+    "id": "RAL 8011",
+    "name": "RAL 8011",
+    "collection": "RAL Classic",
+    "hex": "#5a3a29"
+  },
+  {
+    "id": "RAL 8012",
+    "name": "RAL 8012",
+    "collection": "RAL Classic",
+    "hex": "#673831"
+  },
+  {
+    "id": "RAL 8014",
+    "name": "RAL 8014",
+    "collection": "RAL Classic",
+    "hex": "#49392d"
+  },
+  {
+    "id": "RAL 8015",
+    "name": "RAL 8015",
+    "collection": "RAL Classic",
+    "hex": "#633a34"
+  },
+  {
+    "id": "RAL 8016",
+    "name": "RAL 8016",
+    "collection": "RAL Classic",
+    "hex": "#4c2f26"
+  },
+  {
+    "id": "RAL 8017",
+    "name": "RAL 8017",
+    "collection": "RAL Classic",
+    "hex": "#44322d"
+  },
+  {
+    "id": "RAL 8019",
+    "name": "RAL 8019",
+    "collection": "RAL Classic",
+    "hex": "#3f3a3a"
+  },
+  {
+    "id": "RAL 8022",
+    "name": "RAL 8022",
+    "collection": "RAL Classic",
+    "hex": "#211f20"
+  },
+  {
+    "id": "RAL 8023",
+    "name": "RAL 8023",
+    "collection": "RAL Classic",
+    "hex": "#a65e2f"
+  },
+  {
+    "id": "RAL 8024",
+    "name": "RAL 8024",
+    "collection": "RAL Classic",
+    "hex": "#79553c"
+  },
+  {
+    "id": "RAL 8025",
+    "name": "RAL 8025",
+    "collection": "RAL Classic",
+    "hex": "#755c49"
+  },
+  {
+    "id": "RAL 8028",
+    "name": "RAL 8028",
+    "collection": "RAL Classic",
+    "hex": "#4e3b2b"
+  },
+  {
+    "id": "RAL 9001",
+    "name": "RAL 9001",
+    "collection": "RAL Classic",
+    "hex": "#efebdc"
+  },
+  {
+    "id": "RAL 9002",
+    "name": "RAL 9002",
+    "collection": "RAL Classic",
+    "hex": "#ddded4"
+  },
+  {
+    "id": "RAL 9003",
+    "name": "RAL 9003",
+    "collection": "RAL Classic",
+    "hex": "#f4f8f4"
+  },
+  {
+    "id": "RAL 9004",
+    "name": "RAL 9004",
+    "collection": "RAL Classic",
+    "hex": "#2e3032"
+  },
+  {
+    "id": "RAL 9005",
+    "name": "RAL 9005",
+    "collection": "RAL Classic",
+    "hex": "#0a0a0d"
+  },
+  {
+    "id": "RAL 9010",
+    "name": "RAL 9010",
+    "collection": "RAL Classic",
+    "hex": "#f7f9ef"
+  },
+  {
+    "id": "RAL 9011",
+    "name": "RAL 9011",
+    "collection": "RAL Classic",
+    "hex": "#292c2f"
+  },
+  {
+    "id": "RAL 9016",
+    "name": "RAL 9016",
+    "collection": "RAL Classic",
+    "hex": "#f7fbf5"
+  },
+  {
+    "id": "RAL 9017",
+    "name": "RAL 9017",
+    "collection": "RAL Classic",
+    "hex": "#2a2d2f"
+  },
+  {
+    "id": "RAL 9018",
+    "name": "RAL 9018",
+    "collection": "RAL Classic",
+    "hex": "#cfd3cd"
+  },
+  {
+    "id": "NEOKEM 504",
+    "name": "Blue",
+    "collection": "Sahara",
+    "hex": "#1e2633"
+  },
+  {
+    "id": "NEOKEM 503",
+    "name": "Greyblue",
+    "collection": "Sahara",
+    "hex": "#515557"
+  },
+  {
+    "id": "NEOKEM 501",
+    "name": "Black",
+    "collection": "Sahara",
+    "hex": "#3a4143"
+  },
+  {
+    "id": "NEOKEM 507",
+    "name": "Silver",
+    "collection": "Sahara",
+    "hex": "#d3d6d5"
+  },
+  {
+    "id": "NEOKEM 502",
+    "name": "Grey",
+    "collection": "Sahara",
+    "hex": "#4b4a48"
+  },
+  {
+    "id": "NEOKEM 505",
+    "name": "Green",
+    "collection": "Sahara",
+    "hex": "#2f4731"
+  },
+  {
+    "id": "NEOKEM 529",
+    "name": "Red",
+    "collection": "Sahara",
+    "hex": "#981c1f"
+  },
+  {
+    "id": "NEOKEM 530",
+    "name": "Ochre",
+    "collection": "Sahara",
+    "hex": "#f8bd75"
+  },
+  {
+    "id": "NEOKEM 512",
+    "name": "Oasis",
+    "collection": "Sahara",
+    "hex": "#676c80"
+  },
+  {
+    "id": "NEOKEM 515",
+    "name": "Palm",
+    "collection": "Sahara",
+    "hex": "#916e39"
+  },
+  {
+    "id": "NEOKEM 511",
+    "name": "Breeze",
+    "collection": "Sahara",
+    "hex": "#888f88"
+  },
+  {
+    "id": "NEOKEM 526",
+    "name": "Lithos",
+    "collection": "Sahara",
+    "hex": "#83867f"
+  },
+  {
+    "id": "NEOKEM 517",
+    "name": "Dune",
+    "collection": "Sahara",
+    "hex": "#b2ad9c"
+  },
+  {
+    "id": "NEOKEM 519",
+    "name": "Nomad",
+    "collection": "Sahara",
+    "hex": "#8f867a"
+  },
+  {
+    "id": "NEOKEM 518",
+    "name": "Haven",
+    "collection": "Sahara",
+    "hex": "#7b7565"
+  },
+  {
+    "id": "NEOKEM 520",
+    "name": "Night",
+    "collection": "Sahara",
+    "hex": "#372c16"
+  },
+  {
+    "id": "NEOKEM 521",
+    "name": "Caravan",
+    "collection": "Sahara",
+    "hex": "#4b3b25"
+  },
+  {
+    "id": "NEOKEM 522",
+    "name": "Shade",
+    "collection": "Sahara",
+    "hex": "#676056"
+  },
+  {
+    "id": "NEOKEM 523",
+    "name": "Rust",
+    "collection": "Sahara",
+    "hex": "#482c14"
+  },
+  {
+    "id": "NEOKEM 524",
+    "name": "Cave",
+    "collection": "Sahara",
+    "hex": "#474a4e"
+  },
+  {
+    "id": "NEOKEM 525",
+    "name": "Nile",
+    "collection": "Sahara",
+    "hex": "#9a6949"
+  },
+  {
+    "id": "NEOKEM 810",
+    "name": "Thera",
+    "collection": "Riviera",
+    "hex": "#758199"
+  },
+  {
+    "id": "NEOKEM 807",
+    "name": "Nice",
+    "collection": "Riviera",
+    "hex": "#dcdac8"
+  },
+  {
+    "id": "NEOKEM 809",
+    "name": "Trieste",
+    "collection": "Riviera",
+    "hex": "#d6d5cc"
+  },
+  {
+    "id": "NEOKEM 801",
+    "name": "Corsica",
+    "collection": "Riviera",
+    "hex": "#a35d40"
+  },
+  {
+    "id": "NEOKEM 817",
+    "name": "Sorrento",
+    "collection": "Riviera",
+    "hex": "#958a78"
+  },
+  {
+    "id": "NEOKEM 821",
+    "name": "Cadiz",
+    "collection": "Riviera",
+    "hex": "#54afaf"
+  },
+  {
+    "id": "NEOKEM 805",
+    "name": "Valencia",
+    "collection": "Riviera",
+    "hex": "#533918"
+  },
+  {
+    "id": "NEOKEM 803",
+    "name": "Alexandria",
+    "collection": "Riviera",
+    "hex": "#a87d4a"
+  },
+  {
+    "id": "NEOKEM 813",
+    "name": "Positano",
+    "collection": "Riviera",
+    "hex": "#8b978c"
+  },
+  {
+    "id": "NEOKEM 823",
+    "name": "Porto",
+    "collection": "Riviera",
+    "hex": "#c5bfb8"
+  },
+  {
+    "id": "NEOKEM 815",
+    "name": "Crete",
+    "collection": "Riviera",
+    "hex": "#8d967f"
+  },
+  {
+    "id": "NEOKEM 812",
+    "name": "Amalfi",
+    "collection": "Riviera",
+    "hex": "#dfe6e5"
+  },
+  {
+    "id": "NEOKEM 822",
+    "name": "Sounio",
+    "collection": "Riviera",
+    "hex": "#e3d5c6"
+  },
+  {
+    "id": "NEOKEM 820",
+    "name": "Almeria",
+    "collection": "Riviera",
+    "hex": "#104e82"
+  },
+  {
+    "id": "NEOKEM 614",
+    "name": "Petra",
+    "collection": "Cosmos",
+    "hex": "#cdad94"
+  },
+  {
+    "id": "NEOKEM 703",
+    "name": "Palmyra",
+    "collection": "Cosmos",
+    "hex": "#9e9377"
+  },
+  {
+    "id": "NEOKEM 608",
+    "name": "Aegean",
+    "collection": "Cosmos",
+    "hex": "#45526c"
+  },
+  {
+    "id": "NEOKEM 606",
+    "name": "Duomo",
+    "collection": "Cosmos",
+    "hex": "#9f9588"
+  },
+  {
+    "id": "NEOKEM 605",
+    "name": "Atlas",
+    "collection": "Cosmos",
+    "hex": "#81837b"
+  },
+  {
+    "id": "NEOKEM 617",
+    "name": "Carmel",
+    "collection": "Cosmos",
+    "hex": "#765221"
+  },
+  {
+    "id": "NEOKEM 618",
+    "name": "Castello",
+    "collection": "Cosmos",
+    "hex": "#9e703c"
+  },
+  {
+    "id": "NEOKEM 610",
+    "name": "Rio",
+    "collection": "Cosmos",
+    "hex": "#acb7b4"
+  },
+  {
+    "id": "NEOKEM 603",
+    "name": "Nubia",
+    "collection": "Cosmos",
+    "hex": "#c7bc99"
+  },
+  {
+    "id": "NEOKEM 615",
+    "name": "Sintra",
+    "collection": "Cosmos",
+    "hex": "#c6b7a8"
+  },
+  {
+    "id": "NEOKEM 616",
+    "name": "Terra",
+    "collection": "Cosmos",
+    "hex": "#4e3d2a"
+  },
+  {
+    "id": "NEOKEM 611",
+    "name": "Maui",
+    "collection": "Cosmos",
+    "hex": "#606f41"
+  },
+  {
+    "id": "NEOKEM 613",
+    "name": "Hill",
+    "collection": "Cosmos",
+    "hex": "#73654a"
+  }
+]

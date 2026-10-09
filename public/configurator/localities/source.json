@@ -1,0 +1,8 @@
+{
+  "source": "Institutul Național de Statistică",
+  "dataset": "SIRUTA S1 2025",
+  "url": "https://data.gov.ro/dataset/siruta-2025",
+  "retrieved": "2026-09-22",
+  "counties": 42,
+  "localities": 13755
+}

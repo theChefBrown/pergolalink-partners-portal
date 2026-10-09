@@ -1,0 +1,151 @@
+.customer-offer-panel {
+  border: 1px solid var(--border, #82937c55);
+  border-radius: 16px;
+  padding: 22px;
+  margin-top: 22px;
+  min-width: 0;
+  color: inherit;
+}
+.customer-offer-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.customer-offer-heading h3 {
+  margin: 0;
+  font-size: 18px;
+}
+.customer-offer-heading svg,
+.customer-offer-download svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.customer-offer-help,
+.customer-offer-panel p {
+  font-size: 12px;
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+.customer-offer-panel fieldset {
+  padding: 0;
+  border: 0;
+  margin: 20px 0 0;
+  min-width: 0;
+}
+.customer-adjustment {
+  margin-bottom: 18px;
+}
+.customer-adjustment label {
+  display: block;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+.customer-adjustment-inputs {
+  display: grid;
+  grid-template-columns: minmax(65px, 1fr) minmax(110px, 1fr);
+  gap: 8px;
+}
+.customer-adjustment-inputs input,
+.customer-adjustment-inputs select {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 11px 9px;
+  border: 1px solid #82937c66;
+  border-radius: 9px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 13px;
+}
+.customer-adjustment-inputs option {
+  background: var(--ac-bg, var(--surface, #202820));
+  color: inherit;
+}
+.customer-offer-panel :focus-visible {
+  outline: 2px solid #bc965a;
+  outline-offset: 3px;
+}
+.customer-logo {
+  font-size: 12px;
+  border-block: 1px solid #82937c44;
+  padding: 12px 0;
+}
+.customer-logo summary {
+  cursor: pointer;
+}
+.customer-logo input {
+  width: 100%;
+  font-size: 11px;
+}
+.customer-logo img {
+  display: block;
+  max-width: 200px;
+  max-height: 90px;
+  padding: 8px;
+  border-radius: 8px;
+  margin-block: 12px;
+  background: #fff;
+  object-fit: contain;
+}
+.customer-logo button {
+  background: transparent;
+  color: inherit;
+  border: 1px solid #82937c66;
+  border-radius: 8px;
+  padding: 7px 10px;
+  cursor: pointer;
+}
+.customer-offer-totals {
+  display: grid;
+  gap: 12px;
+  margin: 18px 0;
+}
+.customer-offer-totals > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 12px;
+}
+.customer-offer-totals strong {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.customer-offer-total {
+  border-top: 1px solid #82937c66;
+  padding-top: 14px;
+  font-size: 15px !important;
+}
+.customer-offer-totals p {
+  margin: 0;
+}
+.customer-offer-error {
+  color: #e47669;
+}
+.customer-offer-download {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  border: 0;
+  border-radius: 10px;
+  background: #bd965a;
+  color: #17201b;
+  font: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  padding: 14px;
+  cursor: pointer;
+}
+.customer-offer-panel button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+@media (max-width: 520px) {
+  .customer-offer-panel {
+    padding: 16px;
+  }
+}

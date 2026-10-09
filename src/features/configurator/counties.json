@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "name": "Alba"
+  },
+  {
+    "id": "2",
+    "name": "Arad"
+  },
+  {
+    "id": "3",
+    "name": "Argeș"
+  },
+  {
+    "id": "4",
+    "name": "Bacău"
+  },
+  {
+    "id": "5",
+    "name": "Bihor"
+  },
+  {
+    "id": "6",
+    "name": "Bistrița-Năsăud"
+  },
+  {
+    "id": "7",
+    "name": "Botoșani"
+  },
+  {
+    "id": "8",
+    "name": "Brașov"
+  },
+  {
+    "id": "9",
+    "name": "Brăila"
+  },
+  {
+    "id": "40",
+    "name": "București"
+  },
+  {
+    "id": "10",
+    "name": "Buzău"
+  },
+  {
+    "id": "11",
+    "name": "Caraș-Severin"
+  },
+  {
+    "id": "51",
+    "name": "Călărași"
+  },
+  {
+    "id": "12",
+    "name": "Cluj"
+  },
+  {
+    "id": "13",
+    "name": "Constanța"
+  },
+  {
+    "id": "14",
+    "name": "Covasna"
+  },
+  {
+    "id": "15",
+    "name": "Dâmbovița"
+  },
+  {
+    "id": "16",
+    "name": "Dolj"
+  },
+  {
+    "id": "17",
+    "name": "Galați"
+  },
+  {
+    "id": "52",
+    "name": "Giurgiu"
+  },
+  {
+    "id": "18",
+    "name": "Gorj"
+  },
+  {
+    "id": "19",
+    "name": "Harghita"
+  },
+  {
+    "id": "20",
+    "name": "Hunedoara"
+  },
+  {
+    "id": "21",
+    "name": "Ialomița"
+  },
+  {
+    "id": "22",
+    "name": "Iași"
+  },
+  {
+    "id": "23",
+    "name": "Ilfov"
+  },
+  {
+    "id": "24",
+    "name": "Maramureș"
+  },
+  {
+    "id": "25",
+    "name": "Mehedinți"
+  },
+  {
+    "id": "26",
+    "name": "Mureș"
+  },
+  {
+    "id": "27",
+    "name": "Neamț"
+  },
+  {
+    "id": "28",
+    "name": "Olt"
+  },
+  {
+    "id": "29",
+    "name": "Prahova"
+  },
+  {
+    "id": "30",
+    "name": "Satu Mare"
+  },
+  {
+    "id": "31",
+    "name": "Sălaj"
+  },
+  {
+    "id": "32",
+    "name": "Sibiu"
+  },
+  {
+    "id": "33",
+    "name": "Suceava"
+  },
+  {
+    "id": "34",
+    "name": "Teleorman"
+  },
+  {
+    "id": "35",
+    "name": "Timiș"
+  },
+  {
+    "id": "36",
+    "name": "Tulcea"
+  },
+  {
+    "id": "37",
+    "name": "Vaslui"
+  },
+  {
+    "id": "38",
+    "name": "Vâlcea"
+  },
+  {
+    "id": "39",
+    "name": "Vrancea"
+  }
+]

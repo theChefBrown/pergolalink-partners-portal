@@ -1,0 +1,39 @@
+{
+  "name": "dummy-partners-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import ./tests/resolve-configurator.mjs --test tests/*.test.mjs",
+    "generate:prices": "node scripts/generate-prices.mjs",
+    "import:prices": "node scripts/import-prices.mjs",
+    "check:public": "node scripts/check-public.mjs"
+  },
+  "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "next": "16.3.5",
+    "pdf-lib": "^1.17.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "three": "^0.186.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.186.0",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "16.3.5",
+    "tailwindcss": "4.3.3",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "description": "Public partner portal demo with entirely synthetic business data and prices."
+}
